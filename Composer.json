@@ -1,0 +1,7 @@
+{
+    "name": "rnt-forest/test",
+    "description": "JUST A TEST!",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+    }
+}
