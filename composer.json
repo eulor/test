@@ -2,6 +2,6 @@
     "name": "rnt-forest/test",
     "description": "JUST A TEST!",
     "require": {
-        "php": "^7.0",
+        "php": "^7.0"
     }
 }
